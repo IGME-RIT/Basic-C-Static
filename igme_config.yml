@@ -1,0 +1,14 @@
+series: Basic C++
+title: Static
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: The static keyword makes variables and functions belong to classes instead of individual objects.
+language: C++
+tags:
+  - Core
+extra_resources:
+connections:
+  - series: Basic C++
+    title: The Const Keyword
